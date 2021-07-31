@@ -69,11 +69,11 @@ bot.send(
             ),
             types.BotCommand(
                 command="join",
-                description="Join VC"
+                description="VC ki vanten"
             ),
             types.BotCommand(
                 command="leave",
-                description="Leave from VC"
+                description="VC la irruthu veliya vanten"
             ),
             types.BotCommand(
                 command="vc",
